@@ -1,1 +1,1 @@
-# kardick.github.io
+# kardick... coming soon
