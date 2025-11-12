@@ -15,8 +15,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Kardick'
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
