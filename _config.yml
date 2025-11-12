@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            K4rdick
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'A cibersecurity blog'
 url:              https://kardick.github.io
 baseurl:          ''
