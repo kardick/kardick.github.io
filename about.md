@@ -4,10 +4,17 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+![alt text](kardick-1.png)
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+ Sobre mi:  
+ <p style="text-align: justify;"> Mi nombre es Carlos Izquierdo Oré (Kardick). Soy un entusiasta de la ciberseguridad y la tecnología, siempre motivado por aprender, experimentar y mantenerme actualizado frente a los constantes cambios del entorno digital. Me apasiona explorar nuevas técnicas de hacking ético, analizar vulnerabilidades y participar en retos CTF (Capture The Flag) que fortalezcan mis habilidades prácticas. </p>      
+
+
+Sobre el blog:  
+ <p style="text-align: justify;"> En este espacio compartiré writeups y guías de distintos CTF de varias plataformas de ciberseguridad. La idea es documentar lo que voy aprendiendo, compartir mis métodos y, de paso, ayudar a otros que estén metidos en este mundo del hacking ético y la seguridad ofensiva.
+
+Cada writeup estaraá hecho con el objetivo de explicar paso a paso cómo llegué a la solución, mostrando las herramientas que usé, la lógica detrás de cada movimiento y algunos tips que pueden servirte para tus propios retos. Mi meta es aportar a la comunidad y seguir aprendiendo junto a otros apasionados por la ciberseguridad. </p>  
+  
+Importante:  
+ <p style="text-align: justify;"> Todo el material de Kardick es 100% educativo. Todo lo que comparto se prueba en laboratorios virtuales o entornos CTF oficiales, nunca en sistemas reales.
+No me hago responsable del mal uso de la info o las herramientas aquí mencionadas. Si vas a probar algo, hazlo siempre en tu propio entorno o con permiso. </p>
