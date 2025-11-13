@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            K4rdick
+title:            Kardick
 tagline:          ''
 description:      'A cibersecurity blog'
 url:              https://kardick.github.io
