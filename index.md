@@ -1,8 +1,8 @@
 ---
 layout: Homr
 title: "Index"
-#categories:
-#  - Edge Case
+sidebar_link: true
+
 ---
 
 ![alt text](image.png)
