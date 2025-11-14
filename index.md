@@ -1,6 +1,6 @@
 ---
-layout: Homr
-title: "Index"
+layout: Home
+title: Home
 sidebar_link: true
 
 ---
