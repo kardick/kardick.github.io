@@ -3,25 +3,10 @@ layout: category
 title: CTF's
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+![alt text](image.png)
 
-```md
----
-layout: category
-title: My Category
----
-```
+CTF's - Capture the flag.  
 
-Or ...
+<p style="text-align: justify;"> Un CTF (Capture The Flag) es un concurso de ciberseguridad donde los participantes buscan y extraen un fragmento de texto secreto (la "bandera") oculto en sistemas informáticos, aplicaciones o código, para ganar puntos.
 
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+Es la principal forma lúdica y competitiva de practicar habilidades de hacking, análisis forense, ingeniería inversa y criptografía en un entorno seguro.  </p>
