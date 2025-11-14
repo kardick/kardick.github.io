@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: 
 title: Edge Case
 ---
 
