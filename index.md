@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: page
 title: Home
 sidebar_link: true
 ---
