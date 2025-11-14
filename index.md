@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: Home
 title: Home
 sidebar_link: true
 
