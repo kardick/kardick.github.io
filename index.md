@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Homr
 title: "Index"
 #categories:
 #  - Edge Case
