@@ -4,4 +4,4 @@ title:
 sidebar_link: true
 ---
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)

@@ -3,10 +3,12 @@ layout: category
 title: CTF's
 ---
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
 CTF's - Capture the flag.  
 
 <p style="text-align: justify;"> Un CTF (Capture The Flag) es un concurso de ciberseguridad donde los participantes buscan y extraen un fragmento de texto secreto (la "bandera") oculto en sistemas informáticos, aplicaciones o código, para ganar puntos.
 
-Es la principal forma lúdica y competitiva de practicar habilidades de hacking, análisis forense, ingeniería inversa y criptografía en un entorno seguro.  </p>
+Es la principal forma lúdica y competitiva de practicar habilidades de hacking, análisis forense, ingeniería inversa y criptografía en un entorno seguro.  </p>  
+
+<p style="text-align: justify;"> Muy pronto empezaré a publicar los writeups  </p>

@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-![alt text](kardick-1.png)
+![alt text](images/kardick-1.png)
 
  Sobre mi:  
  <p style="text-align: justify;"> Mi nombre es Carlos Izquierdo Oré (Kardick). Soy un entusiasta de la ciberseguridad y la tecnología, siempre motivado por aprender, experimentar y mantenerme actualizado frente a los constantes cambios del entorno digital. Me apasiona explorar nuevas técnicas de hacking ético, analizar vulnerabilidades y participar en retos CTF (Capture The Flag) que fortalezcan mis habilidades prácticas. </p>      
