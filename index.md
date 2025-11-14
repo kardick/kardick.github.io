@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
+title: 
 sidebar_link: true
 ---
 
-![alt text](image.png)
+![alt text](image-1.png)
