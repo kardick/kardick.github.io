@@ -224,3 +224,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# --- CONFIGURACIÓN PARA FAVICON DEL TEMA CHIRPY ---
+# Esto sobrescribe la configuración predeterminada de Chirpy.
+img_path: /images
+favicon_path: /images/favicon.png
